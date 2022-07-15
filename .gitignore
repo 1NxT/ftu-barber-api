@@ -106,3 +106,4 @@ dist
 #Secrets folder
 secrets
 .secrets/
+secrets/ftu-barber-api-firebase-adminsdk-427uz-2d0b898c27.json
