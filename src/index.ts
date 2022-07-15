@@ -1,6 +1,6 @@
 import { initializeApp, applicationDefault, cert } from 'firebase-admin/app';
 import { getFirestore, Timestamp, FieldValue } from 'firebase-admin/firestore';
-var serviceAccount = require("../secrets/ftu-barber-api-firebase-adminsdk-427uz-2d0b898c27.json");
+var serviceAccount = require("../secrets/ftu-barber-api-firebase-adminsdk-427uz-ea5c4e5240.json");
 
 type Doc = {
     id: string,
