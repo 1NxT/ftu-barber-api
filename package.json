@@ -1,0 +1,11 @@
+{
+  "name": "ftu-barber-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/1NxT/ftu-barber-api.git",
+  "author": "Guilherme Rodrigues Oliveira <62958414+1NxT@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^11.0.0"
+  }
+}
